@@ -1,0 +1,16 @@
+[
+    {
+        "Host": "storydevs.com",
+        "Port": "3030",
+        "Scheme": "http",
+        "Cert": "/etc/letsencrypt/live/storydevs.com/fullchain.pem",
+        "Key": "/etc/letsencrypt/live/storydevs.com/privkey.pem"
+    },
+    {
+        "Host": "jakebowkett.com",
+        "Port": "8080",
+        "Scheme": "http",
+        "Cert": "/etc/letsencrypt/live/jakebowkett.com/fullchain.pem",
+        "Key": "/etc/letsencrypt/live/jakebowkett.com/privkey.pem"
+    }
+]
